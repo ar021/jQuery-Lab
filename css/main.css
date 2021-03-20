@@ -1,3 +1,15 @@
-body{
-    background-color: aqua;
+#skillsTable{
+    margin-top: 200px;
 }
+.skill-button {
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
