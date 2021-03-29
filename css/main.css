@@ -1,15 +1,21 @@
 #skillsTable{
     margin-top: 200px;
 }
-.skill-button {
-    padding: 15px 32px;
+.skill-field{
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    width: 85%;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
     background-color: white; 
     color: black; 
-    border: 2px solid #4CAF50;
-  }
+    border: 1px solid #4CAF50;
+
+}
+.btn {
+    float: right;
+}
+{
+    background-color: #4CAF50;
+}
