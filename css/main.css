@@ -1,6 +1,10 @@
 #skillsTable{
     margin-top: 200px;
 }
+thead{
+    background-color: rgb(91, 194, 235);
+    text-align: center;
+}
 .skill-field{
     padding: .5rem 1rem;
     font-size: 1.25rem;
@@ -16,6 +20,13 @@
 .btn {
     float: right;
 }
-{
-    background-color: #4CAF50;
+.delete {
+    color: red;
+    cursor: pointer;
+    padding: 12px 16px;
+    margin-right: 20px;
+}
+.delete:hover {
+    color: white;
+    background:rgba(241, 0, 0, 0.62);
 }
